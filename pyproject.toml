@@ -63,6 +63,7 @@ optional-dependencies.dev = [
     "requests",
     "setuptools",
     "xmlschema",
+    "pytest-mergify",
 ]
 urls.Changelog = "https://docs.pytest.org/en/stable/changelog.html"
 urls.Contact = "https://docs.pytest.org/en/stable/contact.html"
