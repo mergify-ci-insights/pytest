@@ -4,7 +4,6 @@
    :height: 200
    :alt: pytest
 
-
 ------
 
 .. image:: https://img.shields.io/pypi/v/pytest.svg
